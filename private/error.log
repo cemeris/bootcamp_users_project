@@ -1,0 +1,4 @@
+21.03.2023. 17:27:47 SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSE INTO users (firstname,lastname,phone,email,created_at)
+    VALUES ('Vitāli' at line 1
+21.03.2023. 17:28:31 SQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSE INTO users (firstname,lastname,phone,email,created_at)
+    VALUES ('Vitāli' at line 1
