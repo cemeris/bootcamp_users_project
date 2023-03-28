@@ -6,7 +6,9 @@ include(PRIVATE_DIR . 'functions.php');
 $lang = getLang();
 $translation_strings = getTranslationStrings($lang);
 
-include(PRIVATE_DIR . 'header.php');
+part('header', [
+  'title' => 'Users',
+]);
 
 ?>
 <div class="container">
